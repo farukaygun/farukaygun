@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **farukaygun@outlook.com.tr**
 
+</br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/frkaygun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frkaygun" height="30" width="40" /></a>
@@ -41,6 +43,8 @@ Here are some ideas to get you started:
 </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukaygun&show_icons=true&theme=onedark&locale=en&layout=compact" alt="farukaygun" /></p>
+
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farukaygun&show_icons=true&theme=dracula&locale=en" alt="farukaygun" /></p>
 
