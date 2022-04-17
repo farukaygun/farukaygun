@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **farukaygun/farukaygun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Faruk from Turkey, and I do content on Game Development usually.  </h1>
+<h1 align="left">Hi 👋, I'm Faruk from Turkey, and I do content on Game Development usually.  </h1>
 <!-- <h3 align="center">A passionate Game Developer from Turkey</h3> -->
 
 - 🌱 I’m currently learning **Unreal Engine & C++ and Kotlin**
