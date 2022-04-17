@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Faruk from Turkey, and I do content on Game Development usually. 
-
-<h1 align="center">Hi 👋, I'm Faruk, and I do content on Game Development usually. </h1>
+<h1 align="center">Hi 👋, I'm Faruk from Turkey, and I do content on Game Development usually.  </h1>
 <!-- <h3 align="center">A passionate Game Developer from Turkey</h3> -->
 
 - 🌱 I’m currently learning **Unreal Engine & C++ and Kotlin**
