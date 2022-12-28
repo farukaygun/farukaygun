@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Faruk from Turkey, and I do content on Game Development usually.  </h1>
 <!-- <h3 align="center">A passionate Game Developer from Turkey</h3> -->
 
-- 🌱 I’m currently learning **Unreal Engine & C++ and Kotlin**
+- 🌱 I’m currently learning **Unreal Engine & C++**
 
-- 💬 Ask me about **Unity and C#**
+- 💬 Ask me about **Unity & C# and Android / Kotlin**
 
 - 📫 How to reach me **farukaygun@outlook.com.tr**
 
